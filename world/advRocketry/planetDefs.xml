@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<galaxy>
+    <star blackHole="true" name="§dPrimordial Planes" numGasGiants="0" numPlanets="0" size="1.0" temp="100" x="0" y="0">
+        <planet DIMID="0" customIcon="EarthLike" dimMapping="" name="§a§lEarth">
+            <isKnown>true</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>1.0,1.0,1.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>100</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>287</avgTemperature>
+            <rotationalPeriod>24000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+            <planet DIMID="1000" customIcon="moon" name="§6§lThe Moon">
+                <isKnown>true</isKnown>
+                <fogColor>100.0,65.1,0.0</fogColor>
+                <skyColor>0.0,0.0,0.0</skyColor>
+                <gravitationalMultiplier>8</gravitationalMultiplier>
+                <orbitalDistance>120</orbitalDistance>
+                <orbitalTheta>0</orbitalTheta>
+                <orbitalPhi>0</orbitalPhi>
+                <avgTemperature>233</avgTemperature>
+                <rotationalPeriod>29000</rotationalPeriod>
+                <atmosphereDensity>5</atmosphereDensity>
+                <generateCraters>false</generateCraters>
+                <generateVolcanos>false</generateVolcanos>
+                <generateStructures>false</generateStructures>
+                <generateGeodes>false</generateGeodes>
+                <biomeIds>advancedrocketry:moon,advancedrocketry:moondark</biomeIds>
+                <fillerBlock>rats:marbled_cheese_raw</fillerBlock>
+            </planet>
+        </planet>
+        <planet DIMID="66" customIcon="IceWorld" dimMapping="" name="§c§lErebus">
+            <isKnown>true</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>0.0,0.0,0.0</skyColor>
+            <gravitationalMultiplier>38</gravitationalMultiplier>
+            <orbitalDistance>70</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>305</avgTemperature>
+            <rotationalPeriod>900000</rotationalPeriod>
+            <atmosphereDensity>90</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+        </planet>
+        <planet DIMID="1048" customIcon="MarsLike" dimMapping="" name="§8§lAtum">
+            <isKnown>true</isKnown>
+            <fogColor>0.9,0.9,0.9</fogColor>
+            <skyColor>0.0,0.0,0.0</skyColor>
+            <gravitationalMultiplier>100</gravitationalMultiplier>
+            <orbitalDistance>200</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>203</avgTemperature>
+            <rotationalPeriod>2784000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+        </planet>
+        <planet DIMID="424" customIcon="GasGiantBlue" dimMapping="" name="§b§lAurorian">
+            <isKnown>true</isKnown>
+            <fogColor>1.0,1.0,1.0</fogColor>
+            <skyColor>0.0,0.0,0.0</skyColor>
+            <gravitationalMultiplier>38</gravitationalMultiplier>
+            <orbitalDistance>130</orbitalDistance>
+            <orbitalTheta>0</orbitalTheta>
+            <orbitalPhi>0</orbitalPhi>
+            <avgTemperature>252</avgTemperature>
+            <rotationalPeriod>1400000</rotationalPeriod>
+            <atmosphereDensity>100</atmosphereDensity>
+            <generateCraters>false</generateCraters>
+            <generateVolcanos>false</generateVolcanos>
+            <generateStructures>false</generateStructures>
+            <generateGeodes>false</generateGeodes>
+        </planet>
+    </star>
+</galaxy>
