@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow": {
+    "criteria": {
+      "has_snowball": "2024-07-09 11:54:47 -0300"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2024-07-03 23:14:00 -0300"
@@ -371,6 +377,12 @@
     },
     "done": true
   },
+  "cqrepoured:cqr/not_so_strong": {
+    "criteria": {
+      "pirate_captain": "2024-07-08 23:19:39 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-07-04 11:11:44 -0300"
@@ -529,6 +541,12 @@
     },
     "done": true
   },
+  "fossil:fossil/fossil_seed": {
+    "criteria": {
+      "fossil_fern_seed": "2024-07-08 21:52:42 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2024-07-04 00:21:42 -0300"
@@ -550,6 +568,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-07-04 11:11:44 -0300"
+    },
+    "done": true
+  },
+  "lootgames:minesweeper/minesweeper": {
+    "criteria": {
+      "click_on_puzzle_master": "2024-07-09 11:34:02 -0300"
     },
     "done": true
   },
@@ -609,8 +633,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2024-07-08 23:11:59 -0300",
       "shrubland": "2024-07-06 21:33:30 -0300",
       "steppe": "2024-07-08 12:26:51 -0300",
+      "alps_foothills": "2024-07-09 00:48:56 -0300",
       "phantasmagoric_inferno": "2024-07-04 09:58:13 -0300",
       "bayou": "2024-07-04 12:05:34 -0300",
       "highland": "2024-07-04 10:50:53 -0300",
@@ -618,22 +644,27 @@
       "chaparral": "2024-07-07 23:58:43 -0300",
       "flower_field": "2024-07-03 23:37:36 -0300",
       "mystic_grove": "2024-07-08 11:14:47 -0300",
+      "cold_desert": "2024-07-09 00:52:55 -0300",
       "maple_woods": "2024-07-03 23:32:17 -0300",
       "coral_reef": "2024-07-04 09:35:50 -0300",
       "orchard": "2024-07-05 23:04:21 -0300",
       "land_of_lakes": "2024-07-08 11:14:57 -0300",
       "shield": "2024-07-04 12:42:18 -0300",
+      "alps": "2024-07-09 00:49:08 -0300",
       "mangrove": "2024-07-07 23:55:03 -0300",
       "redwood_forest": "2024-07-04 12:04:28 -0300",
+      "snowy_forest": "2024-07-09 11:20:58 -0300",
       "seasonal_forest": "2024-07-04 12:41:29 -0300",
       "temperate_rainforest": "2024-07-04 09:37:55 -0300",
       "corrupted_sands": "2024-07-04 09:49:39 -0300",
       "bamboo_forest": "2024-07-04 12:05:49 -0300",
       "kelp_forest": "2024-07-06 22:02:22 -0300",
+      "glacier": "2024-07-09 00:52:47 -0300",
       "fungi_forest": "2024-07-04 10:18:31 -0300",
       "grassland": "2024-07-04 12:07:05 -0300",
       "prairie": "2024-07-07 23:58:04 -0300",
       "snowy_coniferous_forest": "2024-07-03 23:14:34 -0300",
+      "tundra": "2024-07-09 10:57:11 -0300",
       "undergarden": "2024-07-04 10:01:12 -0300",
       "grove": "2024-07-03 23:36:52 -0300",
       "gravel_beach": "2024-07-04 09:37:53 -0300",
@@ -647,6 +678,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_wendigo": {
+    "criteria": {
+      "kill_undertaker": "2024-07-09 01:12:39 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-07-03 23:54:18 -0300"
@@ -656,6 +693,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-07-04 00:21:42 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-07-08 22:21:38 -0300"
     },
     "done": true
   },
@@ -776,7 +819,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "stray": "2024-07-09 01:06:15 -0300",
       "wither_skeleton": "2024-07-04 10:21:49 -0300",
+      "zombie_villager": "2024-07-09 11:18:49 -0300",
       "slime": "2024-07-04 11:25:12 -0300",
       "polar_bear": "2024-07-08 00:08:25 -0300",
       "vindicator": "2024-07-08 12:39:08 -0300",
@@ -785,6 +830,7 @@
       "evoker": "2024-07-08 12:29:38 -0300",
       "zombie": "2024-07-04 22:12:29 -0300",
       "cave_spider": "2024-07-08 00:13:43 -0300",
+      "silverfish": "2024-07-08 23:13:33 -0300",
       "witch": "2024-07-07 23:57:15 -0300",
       "spider": "2024-07-07 01:40:24 -0300",
       "creeper": "2024-07-04 00:35:03 -0300"
@@ -794,6 +840,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2024-07-07 01:33:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-07-09 10:49:08 -0300"
     },
     "done": true
   },
@@ -866,6 +918,12 @@
   "improvedbackpacks:main/craft_backpack": {
     "criteria": {
       "get_stone": "2024-07-07 00:49:45 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-07-09 11:54:50 -0300"
     },
     "done": true
   },
@@ -1472,6 +1530,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/pinch_beetle": {
+    "criteria": {
+      "hurt": "2024-07-09 11:53:15 -0300"
+    },
+    "done": true
+  },
   "mod_lavacow:mod_lavacow/root": {
     "criteria": {
       "tick": "2024-07-03 23:14:00 -0300"
@@ -1516,11 +1580,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "taiga_cold_hills": "2024-07-08 22:13:01 -0300",
+      "ice_flats": "2024-07-09 00:50:03 -0300",
+      "frozen_river": "2024-07-09 00:50:40 -0300",
       "forest": "2024-07-04 23:59:13 -0300",
       "birch_forest": "2024-07-03 23:36:41 -0300",
       "swampland": "2024-07-04 12:15:42 -0300",
       "deep_ocean": "2024-07-07 23:55:17 -0300",
       "beaches": "2024-07-04 09:35:45 -0300",
+      "extreme_hills_with_trees": "2024-07-09 00:48:44 -0300",
       "mesa": "2024-07-08 12:03:35 -0300",
       "forest_hills": "2024-07-04 23:47:25 -0300",
       "jungle_hills": "2024-07-04 12:06:10 -0300",
@@ -1534,6 +1602,7 @@
       "taiga_cold": "2024-07-03 23:22:23 -0300",
       "ocean": "2024-07-04 09:35:54 -0300",
       "extreme_hills": "2024-07-04 10:44:33 -0300",
+      "cold_beach": "2024-07-09 11:49:36 -0300",
       "river": "2024-07-03 23:13:59 -0300",
       "jungle": "2024-07-04 12:05:55 -0300",
       "desert": "2024-07-08 12:03:49 -0300"
@@ -1744,6 +1813,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_at_least_9_lapis": "2024-07-09 10:41:09 -0300"
+    },
+    "done": true
+  },
   "fossil:fossil/break_fossil": {
     "criteria": {
       "relic_scrap": "2024-07-04 12:10:26 -0300"
@@ -1897,6 +1972,12 @@
   "arcaneapprentices:root": {
     "criteria": {
       "criteria_0": "2024-07-08 12:10:13 -0300"
+    },
+    "done": true
+  },
+  "lootgames:find_dungeon": {
+    "criteria": {
+      "click_on_puzzle_master": "2024-07-09 11:33:52 -0300"
     },
     "done": true
   },
@@ -2074,6 +2155,18 @@
     },
     "done": true
   },
+  "dungeontactics:recipes/misc/convenience/snowballs_from_snow": {
+    "criteria": {
+      "has_snowball": "2024-07-09 11:54:47 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-07-08 21:59:38 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2024-07-04 22:22:27 -0300"
@@ -2114,6 +2207,12 @@
   "tombstone:recipes/from_grave_key": {
     "criteria": {
       "has_ingredient": "2024-07-03 23:48:01 -0300"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2024-07-08 23:06:31 -0300"
     },
     "done": true
   },
@@ -2231,6 +2330,12 @@
     },
     "done": true
   },
+  "ancientbeasts:kill_damcell": {
+    "criteria": {
+      "Damcell": "2024-07-09 11:27:22 -0300"
+    },
+    "done": true
+  },
   "rats:rats/rat_upgrade_flight": {
     "criteria": {
       "rat_upgrade_basic": "2024-07-05 00:45:01 -0300"
@@ -2240,6 +2345,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-07-08 12:24:30 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-07-08 22:08:04 -0300"
     },
     "done": true
   },
@@ -2312,6 +2423,12 @@
   "dungeontactics:recipes/misc/brazier": {
     "criteria": {
       "has_torch": "2024-07-03 23:55:43 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
+    "criteria": {
+      "has_flower": "2024-07-09 11:25:36 -0300"
     },
     "done": true
   },
@@ -2452,6 +2569,12 @@
   "enderio:gears/g1_wooden_gear": {
     "criteria": {
       "inv_changed-enderio:item_material": "2024-07-07 00:47:04 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-07-09 11:57:03 -0300"
     },
     "done": true
   },
@@ -2647,6 +2770,12 @@
     },
     "done": true
   },
+  "thebetweenlands:fighter/fearless_fighter": {
+    "criteria": {
+      "swamp_hag": "2024-07-09 11:52:42 -0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-07-03 23:54:18 -0300"
@@ -2743,6 +2872,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/redcap_sapper": {
+    "criteria": {
+      "slay": "2024-07-09 11:52:47 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2024-07-08 12:21:40 -0300"
@@ -2784,6 +2919,7 @@
       "spark_bomb": "2024-07-08 11:31:54 -0300",
       "homing_spark": "2024-07-08 11:43:43 -0300",
       "diamondflesh": "2024-07-08 12:12:09 -0300",
+      "frost_barrier": "2024-07-08 23:29:33 -0300",
       "freeze": "2024-07-04 23:35:42 -0300",
       "metamorphosis": "2024-07-08 11:40:59 -0300",
       "ray_of_purification": "2024-07-08 21:32:08 -0300",
@@ -2798,6 +2934,7 @@
       "invoke_weather": "2024-07-08 11:36:28 -0300",
       "bubble": "2024-07-06 20:46:51 -0300",
       "leap": "2024-07-08 11:04:05 -0300",
+      "fireball": "2024-07-09 11:00:01 -0300",
       "mine": "2024-07-08 11:05:13 -0300",
       "charge": "2024-07-06 22:20:02 -0300",
       "poison_bomb": "2024-07-08 11:31:59 -0300",
@@ -2806,7 +2943,9 @@
       "evade": "2024-07-04 11:52:08 -0300",
       "growth_aura": "2024-07-06 20:44:40 -0300",
       "summon_spirit_wolf": "2024-07-07 01:14:18 -0300",
+      "mind_trick": "2024-07-09 11:02:21 -0300",
       "smoke_bomb": "2024-07-08 11:32:09 -0300",
+      "ice_statue": "2024-07-09 10:59:18 -0300",
       "firebomb": "2024-07-06 22:06:44 -0300",
       "summon_ice_giant": "2024-07-08 12:10:13 -0300",
       "banish": "2024-07-07 01:05:25 -0300",
@@ -2957,6 +3096,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow_layer": {
+    "criteria": {
+      "has_snowball": "2024-07-09 11:54:47 -0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/yeti_armor_set": {
     "criteria": {
       "chestplate": "2024-07-04 11:14:21 -0300"
@@ -3044,6 +3189,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2024-07-04 11:17:33 -0300"
+    },
+    "done": true
+  },
+  "inventorypets:inventorypets/pig": {
+    "criteria": {
+      "crafting_table": "2024-07-09 11:04:36 -0300"
     },
     "done": true
   },
@@ -3156,6 +3307,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/kobold": {
+    "criteria": {
+      "slay": "2024-07-09 11:52:44 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2024-07-07 01:29:14 -0300"
@@ -3171,6 +3328,12 @@
   "tfspellpack:twilight_spell": {
     "criteria": {
       "summon_skeleton_druid": "2024-07-08 11:43:56 -0300"
+    },
+    "done": true
+  },
+  "rats:rats/cheese": {
+    "criteria": {
+      "iron_pickaxe": "2024-07-08 22:10:29 -0300"
     },
     "done": true
   },
@@ -3195,6 +3358,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-07-03 23:50:20 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-07-09 11:20:59 -0300"
     },
     "done": true
   },
@@ -3225,6 +3394,12 @@
   "buildcraftfactory:recipes/water_gel_spawn": {
     "criteria": {
       "has_sand": "2024-07-06 20:34:21 -0300"
+    },
+    "done": true
+  },
+  "dungeontactics:recipes/traps/trap_plate": {
+    "criteria": {
+      "has_item": "2024-07-09 11:59:53 -0300"
     },
     "done": true
   },
@@ -3273,6 +3448,12 @@
   "twilightforest:alt/treasures/maze_map": {
     "criteria": {
       "maze_map_focus": "2024-07-04 11:21:05 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2024-07-09 11:32:37 -0300"
     },
     "done": true
   },
@@ -3501,6 +3682,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-07-03 23:54:18 -0300"
+    },
+    "done": true
+  },
+  "rats:rats/contaminated_food": {
+    "criteria": {
+      "contaminated_food": "2024-07-09 11:50:55 -0300"
     },
     "done": true
   },

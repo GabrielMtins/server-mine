@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "mod_lavacow:mod_lavacow/kill_foglet": {
+    "criteria": {
+      "kill_foglet": "2024-07-09 11:56:17 -0300"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/misc/convenience/string_from_wool": {
     "criteria": {
       "has_wool": "2024-07-03 01:25:28 -0300"
@@ -591,6 +597,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2024-07-09 13:33:42 -0300",
       "steppe": "2024-07-03 03:59:36 -0300",
       "phantasmagoric_inferno": "2024-07-07 17:09:26 -0300",
       "highland": "2024-07-03 16:06:47 -0300",
@@ -601,6 +608,7 @@
       "coral_reef": "2024-07-07 18:28:58 -0300",
       "orchard": "2024-07-03 16:08:42 -0300",
       "coniferous_forest": "2024-07-03 23:53:28 -0300",
+      "shield": "2024-07-09 13:56:27 -0300",
       "redwood_forest": "2024-07-03 15:02:39 -0300",
       "visceral_heap": "2024-07-07 17:09:23 -0300",
       "seasonal_forest": "2024-07-03 16:29:09 -0300",
@@ -762,6 +770,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2024-07-08 22:02:19 -0300",
       "zombie_villager": "2024-07-08 16:16:57 -0300",
       "vindicator": "2024-07-03 19:22:52 -0300",
       "skeleton": "2024-07-03 02:23:20 -0300",
@@ -1263,6 +1272,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_log": "2024-07-09 10:50:07 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2024-07-03 23:38:58 -0300"
@@ -1556,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-07-08 22:19:06 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-07-03 01:26:35 -0300"
@@ -1703,6 +1724,12 @@
   "minecraft:recipes/building_blocks/brick_slab": {
     "criteria": {
       "has_brick_block": "2024-07-08 00:01:54 -0300"
+    },
+    "done": true
+  },
+  "fossil:fossil/break_fossil": {
+    "criteria": {
+      "plant_fossil": "2024-07-08 22:09:06 -0300"
     },
     "done": true
   },
@@ -1886,6 +1913,12 @@
     },
     "done": true
   },
+  "fossil:fossil/iced_meat": {
+    "criteria": {
+      "broken_sword": "2024-07-08 22:02:17 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-07-03 01:25:28 -0300"
@@ -2060,9 +2093,21 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-07-08 21:59:38 -0300"
+    },
+    "done": true
+  },
   "dungeontactics:recipes/tools/bone_tools": {
     "criteria": {
       "has_item": "2024-07-03 16:27:11 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-07-09 11:44:25 -0300"
     },
     "done": true
   },
@@ -2235,6 +2280,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-07-03 19:26:35 -0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-07-08 22:01:00 -0300"
     },
     "done": true
   },
@@ -2561,6 +2612,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2024-07-03 19:22:14 -0300"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "craft_hammer": "2024-07-09 10:49:31 -0300"
     },
     "done": true
   },
@@ -2937,6 +2994,12 @@
     },
     "done": true
   },
+  "villagenames:minrep": {
+    "criteria": {
+      "minrep": "2024-07-09 10:55:35 -0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/yeti_armor_set": {
     "criteria": {
       "chestplate": "2024-07-03 16:30:01 -0300"
@@ -3281,6 +3344,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2024-07-09 11:32:17 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2024-07-03 01:12:42 -0300"
@@ -3308,6 +3377,12 @@
   "dungeontactics:recipes/misc/convenience/sticks_from_saplings": {
     "criteria": {
       "has_stick": "2024-07-03 01:19:29 -0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/lich_zombies": {
+    "criteria": {
+      "hurt": "2024-07-09 14:15:38 -0300"
     },
     "done": true
   },
@@ -3428,6 +3503,12 @@
   "dungeontactics:recipes/armour/studded_armour": {
     "criteria": {
       "has_item": "2024-07-03 02:03:54 -0300"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/bowl_of_rice": {
+    "criteria": {
+      "has_bowl": "2024-07-09 11:44:25 -0300"
     },
     "done": true
   },
